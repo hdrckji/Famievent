@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  /* Charte Famiflora — vert */
+  --color-fami-bg: #eaf4dc;
+  --color-fami-bg-soft: #f3f9ea;
+  --color-fami-green: #6cb33f;
+  --color-fami-green-dark: #4e9430;
+  --color-fami-forest: #1f5c2e;
+  --color-fami-forest-deep: #133d1e;
+
+  --font-sans: var(--font-rubik), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--color-fami-bg);
+  color: var(--color-fami-forest);
+}

@@ -18,8 +18,8 @@ export const event = {
     nl: "Een gezond buffet boordevol energie!",
   },
   intro: {
-    fr: "Boost d'énergie pour le début de la saison du jardinage ! Rejoins tes collègues autour d'un buffet sain et convivial. Inscris-toi ci-dessous, c'est offert par Famiflora. 🔋",
-    nl: "Energie-boost voor de start van het tuinseizoen! Sluit aan bij je collega's rond een gezond en gezellig buffet. Schrijf je hieronder in, aangeboden door Famiflora. 🔋",
+    fr: "Boost d'énergie pour bien démarrer la saison de Noël ! Rejoins tes collègues autour d'un buffet sain et convivial. Inscris-toi ci-dessous, c'est offert par Famiflora. 🔋",
+    nl: "Energie-boost voor een goede start van het kerstseizoen! Sluit aan bij je collega's rond een gezond en gezellig buffet. Schrijf je hieronder in, aangeboden door Famiflora. 🔋",
   },
 } as const;
 
